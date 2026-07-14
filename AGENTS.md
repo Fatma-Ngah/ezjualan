@@ -180,3 +180,5 @@ This project has domain-specific skills available in `**/skills/**`. You MUST ac
 - Do NOT delete tests without approval.
 
 </laravel-boost-guidelines>
+
+selepas siap test Playwright MCP, sentiasa bagi ringkasan Langkah dan hasil
